@@ -1,7 +1,6 @@
 # Phân tích thiết kế hệ thống thông tin nâng cao - IS6301.CH18
 ### GVHD: TS. Cao Thị Nhạn
-
-* Học viên thực hiện:
+***Học viên thực hiện:***
 1. **Đỗ Trung Thuận - 230104025@grad.uit.edu.vn**
 2. **Nguyễn Trần Hoàng Hiếu - 230104013@grad.uit.edu.vn**
    
